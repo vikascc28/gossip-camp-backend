@@ -1,0 +1,13 @@
+export const OPEN_ROOM = "open-room";
+export const JOIN_ROOM = "join-room";
+export const LEAVE_ROOM = "leave-room";
+export const CLOSE_ROOM = "close-room";
+export const CREATE_MESSAGE = "create-message";
+export const SEND_MESSAGE = "send-message";
+export const MESSAGE = "message";
+export const LIKE_MESSAGE = "like-message";
+export const SEND_LIKE_MESSAGE = "send-like-message";
+export const DELETE_MESSAGE = "delete-message";
+export const SEND_DELETE_MESSAGE = "send-delete-message";
+export const POLL_VOTE = "poll-vote";
+export const SEND_POLL_VOTE = "send-poll-vote";
